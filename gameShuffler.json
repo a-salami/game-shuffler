@@ -11,7 +11,7 @@
      "genre": "Simulation / Management (Life)", 
      "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/acDinner.png", 
      "desc": "desc",
-     "iconic": ""
+     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/acnhIcon.png"
     },
     {"name": "The Legend of Zelda: Breath of the Wild", 
      "genre": "Action / Adventure", 

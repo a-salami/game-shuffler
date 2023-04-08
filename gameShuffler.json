@@ -4,14 +4,14 @@
     {"name": "Moonlighter", 
      "genre": "Action-RPG/Rogue-Lite", 
      "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/moonlighterIcon.png",
-     //"https://voxelvoice.com/wp-content/uploads/2018/05/Moonlighter-Review.00_04_03_07.Still004.jpg", 
+     #"https://voxelvoice.com/wp-content/uploads/2018/05/Moonlighter-Review.00_04_03_07.Still004.jpg", 
      "icon": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/moonlighterIcon.png",
      "desc": "Dungeon crawl and sell it all, Moonlighter has you taking on the role of shopkeeper Will who dreams of being a hero. It's up to you to fulfull that dream, as slowly or quickly as you wish. Moonlighter is a ton of fun, and it'll have you equally invested in the well-being of your shop during the day... and of Will himself, crawling through procedurally-generated dungeon rooms during the night. The graphics are phenomenal, the atmosphere and aesthetic seamless, and the music phenomenal. A great game to play over and over again as a test of skill."
     },
     {"name": "Super Mario Galaxy 2", 
      "genre": "Platformer", 
      "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/smg2Icon.png",
-     //"https://raw.githubusercontent.com/a-salami/game-shuffler/main/smg2art.png", 
+     #"https://raw.githubusercontent.com/a-salami/game-shuffler/main/smg2art.png", 
      "icon": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/smg2Icon.png",
      "desc": "This game, released on the Nintendo Wii in 2010, still holds up as an ultimate classic, and not just for nostalgia. The many hours I've spent playing this game at least once per year have cemented its controls as solid, its gameplay loop as addicting, and its worldbuilding and atmosphere as satisfying."
     }

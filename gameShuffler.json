@@ -19,6 +19,12 @@
     "desc": "Kynseed is a mystical game about odd magic and interesting characters. The NPCs all have interesting lives, and befriending them is a rewarding task. The little farm that you manage is just the tip of the iceberg when you want to master farming, combat, shop management, family life, and all the other aspects that the wonderful world of Quill has to offer.",
     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/kynseedIcon.png"
     },
+    {"name": "The Messenger", 
+    "genre": "Platformer", 
+    "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/messenger.png", 
+    "desc": "One of the most platformers I've ever played, and certainly one of the most innovative in game design, the Messenger is an experience to be had. The switch between graphical styles (and with it, musical fidelity) is a truly fascinating game mechanic to play with. It makes the distinct, nostalgic ambiance of this game all the more alluring. Should you be up for the test, beating this game will be rewarding. Show your skill as you collect the items to help you progress, and make your friends along the way. Completing this game in its entirety is just as much a joy as clearing the story.",
+    "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/messengerIcon.png"
+    },
     {"name": "Moonlighter", 
      "genre": "Action-RPG/Rogue-Lite", 
      "img": "https://voxelvoice.com/wp-content/uploads/2018/05/Moonlighter-Review.00_04_03_07.Still004.jpg", 

@@ -4,19 +4,19 @@
     {"name": "Animal Crossing: New Horizons", 
     "genre": "Simulation / Management (Life)", 
     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/acDinner.png", 
-    "desc": "desc1",
+    "desc": "This is a wonderfully relaxing game about building, exploring, making friends planting the fruits of your labor, and watching them blossom. Make friends with ducks, deer, and all sorts of animals as you build up a bustling community. Cook, farm, bake, and explore at a pace that's right for you.",
     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/acnhIcon.png"
    },
    {"name": "The Legend of Zelda: Breath of the Wild", 
    "genre": "Action / Adventure", 
    "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/botwGreaterHyrule.png", 
-   "desc": "desc2",
+   "desc": "Breath of the Wild is a special game about total player freedom, getting lost, and exploration. It's a game that will test your merit and your curiosity, compelling but not demanding greatness the longer you play. It's easy to get lost in the world, drudging up hints of a world now gone while forging a new path of your own.",
    "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/botwIcon.png"
     },
     {"name": "Kynseed", 
     "genre": "Life Simulation / RPG", 
     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/kynMarriage.png", 
-    "desc": "desc3",
+    "desc": "Kynseed is a mystical game about odd magic and interesting characters. The NPCs all have interesting lives, and befriending them is a rewarding task. The little farm that you manage is just the tip of the iceberg when you want to master farming, combat, shop management, family life, and all the other aspects that the wonderful world of Quill has to offer.",
     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/kynseedIcon.png"
     },
     {"name": "Moonlighter", 
@@ -28,7 +28,7 @@
     {"name": "Stardew Valley", 
      "genre": "Simulation / Management (Farming)", 
      "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/image/svFarm2022.png", 
-     "desc": "desc4",
+     "desc": "Stardew Valley is a game that's as relaxed as you are. It can be a peaceful game about farm life in an idyllic village, or it can be a game about automation, efficiency, and finding the optimal path to the finish. Any way you choose to play, Stardew Valley has a place and a plot of land for you.",
      "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/stardewIcon.png"
     },
     {"name": "Super Mario Galaxy 2", 
@@ -40,7 +40,7 @@
     {"name": "Terraria", 
     "genre": "Action / Adventure (Sandbox)", 
     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/tmaShimmerBase.png", 
-    "desc": "desc5",
+    "desc": "Full of passion, love, exploration, and creepy cave noises at every turn, Terraria is a blast to play through every time. Each new dive into the game is with new fervor, like it's never been played before, like all challenges are new and insurmountably possible. With each playthrough a new challenge is imposed, a new difficulty, a new way to play the game, to play like never before.",
     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/terrariaIcon.png"
    }
   ],

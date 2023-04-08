@@ -7,6 +7,36 @@
      "desc": "Dungeon crawl and sell it all, Moonlighter has you taking on the role of shopkeeper Will who dreams of being a hero. It's up to you to fulfull that dream, as slowly or quickly as you wish. Moonlighter is a ton of fun, and it'll have you equally invested in the well-being of your shop during the day... and of Will himself, crawling through procedurally-generated dungeon rooms during the night. The graphics are phenomenal, the atmosphere and aesthetic seamless, and the music phenomenal. A great game to play over and over again as a test of skill.",
      "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/moonlighterIcon.png"
     },
+    {"name": "Animal Crossing: New Horizons", 
+     "genre": "Simulation / Management (Life)", 
+     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/acDinner.png", 
+     "desc": "desc",
+     "iconic": ""
+    },
+    {"name": "The Legend of Zelda: Breath of the Wild", 
+     "genre": "Action / Adventure", 
+     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/botwGreaterHyrule.png", 
+     "desc": "desc",
+     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/botwIcon.png"
+    },
+    {"name": "Kynseed", 
+     "genre": "Life Simulation / RPG", 
+     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/kynMarriage.png", 
+     "desc": "desc",
+     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/kynseedIcon.png"
+    },
+    {"name": "Stardew Valley", 
+     "genre": "Simulation / Management (Farming)", 
+     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/image/svFarm2022.png", 
+     "desc": "desc",
+     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/stardewIcon.png"
+    },
+    {"name": "Terraria", 
+     "genre": "Action / Adventure (Sandbox)", 
+     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/tmaShimmerBase.png", 
+     "desc": "desc",
+     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/terraraIcon.png"
+    },
     {"name": "Super Mario Galaxy 2", 
      "genre": "Platformer", 
      "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/smg2art.png", 

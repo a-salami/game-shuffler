@@ -13,6 +13,12 @@
    "desc": "Breath of the Wild is a special game about total player freedom, getting lost, and exploration. It's a game that will test your merit and your curiosity, compelling but not demanding greatness the longer you play. It's easy to get lost in the world, drudging up hints of a world now gone while forging a new path of your own.",
    "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/botwIcon.png"
     },
+    {"name": "The Legend of Zelda: Link's Awakening", 
+   "genre": "Action / Adventure", 
+   "img": "https://cdn.mos.cms.futurecdn.net/m9Uk7LyY8skYhvKG8FWjCX-1200-80.jpg", 
+   "desc": "Remade in 2019, Link's Awakening is a ground-up restylizing of one of the classic Legend of Zelda titles, and on the classic Legend of Zelda format. Complete with a measured overworld, dungeon order, special items, and locked storyline, this game is a true, modernized depiction of Zelda games less focused on freedom and more focused on delivering a specific environment for the player. In that, it very much succeeds. The atmosphere in that game is heartwarming, the aesthetic toy-like and amicable, and the story is engaging. While not my favorite title ever made, in the Legend of Zelda franchise or in the gaming world at large, Link's Awakening is absolutely worth a playthrough.",
+   "iconic": "https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_thelegendofzeldalinksawakening/NSwitch_ZeldaLinksAwakening_Char_Link_attack.png"
+    },
     {"name": "Kynseed", 
     "genre": "Life Simulation / RPG", 
     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/kynMarriage.png", 
@@ -22,7 +28,7 @@
     {"name": "The Messenger", 
     "genre": "Platformer", 
     "img": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/images/messenger.png", 
-    "desc": "One of the most platformers I've ever played, and certainly one of the most innovative in game design, the Messenger is an experience to be had. The switch between graphical styles (and with it, musical fidelity) is a truly fascinating game mechanic to play with. It makes the distinct, nostalgic ambiance of this game all the more alluring. Should you be up for the test, beating this game will be rewarding. Show your skill as you collect the items to help you progress, and make your friends along the way. Completing this game in its entirety is just as much a joy as clearing the story.",
+    "desc": "One of the most fun platformers I've ever played, and certainly one of the most innovative in game design, the Messenger is an experience to be had. The switch between graphical styles (and with it, musical fidelity) is a truly fascinating game mechanic to play with. It makes the distinct, nostalgic ambiance of this game all the more alluring. Should you be up for the test, beating this game will be rewarding. Show your skill as you collect the items to help you progress, and make your friends along the way. Completing this game in its entirety is just as much a joy as clearing the story.",
     "iconic": "https://raw.githubusercontent.com/a-salami/game-shuffler/main/icons/messengerIcon.png"
     },
     {"name": "Moonlighter", 
